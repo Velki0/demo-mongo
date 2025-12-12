@@ -11,8 +11,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 
-import static com.mongodb.client.model.Sorts.descending;
-
 public class Manipulation {
 
     public static void main(String[] args) throws IOException {
