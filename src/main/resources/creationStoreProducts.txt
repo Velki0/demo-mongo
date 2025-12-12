@@ -1,0 +1,24 @@
+// Étape 1 : Création de la Base de Données et des Collections
+use store
+db.createCollection("products",
+{validator: {$jsonSchema: {bsonType:
+    "object",
+    required:["name", "category", "price", "quantity"],
+    properties: {
+        name: {
+            bsonType: "string",
+            description: "Le nom est obligatoire"},
+        category: {
+            bsonType: "string",
+            description: "La catégorie est obligatoire."},
+        color: {
+            bsonType: "string",
+            description: "La couleur est obligatoire."},
+        price: {
+            bsonType: "double",
+            description: "Le prix est obligatoire."},
+        quantity: {
+            bsonType: "int",
+            description: "La quantité est obligatoire."}
+    }
+}}})

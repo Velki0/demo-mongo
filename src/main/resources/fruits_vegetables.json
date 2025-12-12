@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Apple",
+    "category": "Fruit",
+    "color": "Red",
+    "price": 1.99,
+    "quantity": 10
+  },
+  {
+    "name": "Banana",
+    "category": "Fruit",
+    "color": "Yellow",
+    "price": 0.99,
+    "quantity": 20
+  },
+  {
+    "name": "Orange",
+    "category": "Fruit",
+    "color": "Orange",
+    "price": 0.79,
+    "quantity": 15
+  },
+  {
+    "name": "Grapes",
+    "category": "Fruit",
+    "color": "Purple",
+    "price": 2.49,
+    "quantity": 8
+  },
+  {
+    "name": "Watermelon",
+    "category": "Fruit",
+    "color": "Green",
+    "price": 4.99,
+    "quantity": 5
+  },
+  {
+    "name": "Carrot",
+    "category": "Vegetable",
+    "color": "Orange",
+    "price": 0.49,
+    "quantity": 30
+  },
+  {
+    "name": "Broccoli",
+    "category": "Vegetable",
+    "color": "Green",
+    "price": 1.29,
+    "quantity": 12
+  },
+  {
+    "name": "Tomato",
+    "category": "Vegetable",
+    "color": "Red",
+    "price": 0.89,
+    "quantity": 18
+  },
+  {
+    "name": "Cucumber",
+    "category": "Vegetable",
+    "color": "Green",
+    "price": 0.69,
+    "quantity": 25
+  },
+  {
+    "name": "Potato",
+    "category": "Vegetable",
+    "color": "Brown",
+    "price": 0.39,
+    "quantity": 40
+  },
+  {
+    "name": "Mango",
+    "category": "Fruit",
+    "color": "Yellow",
+    "price": 2.99,
+    "quantity": 6
+  },
+  {
+    "name": "Pineapple",
+    "category": "Fruit",
+    "color": "Yellow",
+    "price": 3.49,
+    "quantity": 4
+  },
+  {
+    "name": "Strawberry",
+    "category": "Fruit",
+    "color": "Red",
+    "price": 1.49,
+    "quantity": 7
+  },
+  {
+    "name": "Blueberry",
+    "category": "Fruit",
+    "color": "Blue",
+    "price": 2.79,
+    "quantity": 9
+  },
+  {
+    "name": "Lettuce",
+    "category": "Vegetable",
+    "color": "Green",
+    "price": 0.99,
+    "quantity": 22
+  },
+  {
+    "name": "Spinach",
+    "category": "Vegetable",
+    "color": "Green",
+    "price": 1.09,
+    "quantity": 16
+  },
+  {
+    "name": "Onion",
+    "category": "Vegetable",
+    "color": "White",
+    "price": 0.59,
+    "quantity": 35
+  },
+  {
+    "name": "Pepper",
+    "category": "Vegetable",
+    "color": "Red",
+    "price": 0.79,
+    "quantity": 28
+  },
+  {
+    "name": "Eggplant",
+    "category": "Vegetable",
+    "color": "Purple",
+    "price": 1.29,
+    "quantity": 14
+  },
+  {
+    "name": "Kiwi",
+    "category": "Fruit",
+    "color": "Brown",
+    "price": 1.79,
+    "quantity": 11
+  },
+  {
+    "name": "Avocado",
+    "category": "Fruit",
+    "color": "Green",
+    "price": 2.49,
+    "quantity": 7
+  },
+  {
+    "name": "Pear",
+    "category": "Fruit",
+    "color": "Yellow",
+    "price": 1.69,
+    "quantity": 9
+  },
+  {
+    "name": "Peach",
+    "category": "Fruit",
+    "color": "Orange",
+    "price": 1.99,
+    "quantity": 6
+  },
+  {
+    "name": "Cabbage",
+    "category": "Vegetable",
+    "color": "Green",
+    "price": 1.19,
+    "quantity": 13
+  },
+  {
+    "name": "Radish",
+    "category": "Vegetable",
+    "color": "Red",
+    "price": 0.69,
+    "quantity": 24
+  },
+  {
+    "name": "Celery",
+    "category": "Vegetable",
+    "color": "Green",
+    "price": 0.89,
+    "quantity": 18
+  },
+  {
+    "name": "Zucchini",
+    "category": "Vegetable",
+    "color": "Green",
+    "price": 0.99,
+    "quantity": 16
+  },
+  {
+    "name": "Melon",
+    "category": "Fruit",
+    "color": "Green",
+    "price": 3.99,
+    "quantity": 5
+  },
+  {
+    "name": "Cherry",
+    "category": "Fruit",
+    "color": "Red",
+    "price": 2.99,
+    "quantity": 8
+  },
+  {
+    "name": "Asparagus",
+    "category": "Vegetable",
+    "color": "Green",
+    "price": 1.59,
+    "quantity": 10
+  }
+]
