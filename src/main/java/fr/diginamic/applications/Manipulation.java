@@ -153,7 +153,7 @@ public class Manipulation {
 
             // 3. Recherchez le fruit qui a la plus grande quantité.
         try {
-            Document selectProductGreatestQuantity = mongoManager.getCollection().find().sort(descending("quantity")).first();
+            Document selectProductGreatestQuantity = mongoManager.getCollection().find().sort(new Document("quantity", -1)).first();
             System.out.println("Produits le plus abondant : " + selectProductGreatestQuantity);
         } catch (Exception e) {
             throw new RuntimeException("Unable to read document", e);
