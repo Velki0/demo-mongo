@@ -21,7 +21,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
 public class MongoManager {
 
     private MongoClient client;
@@ -79,7 +78,7 @@ public class MongoManager {
 
     }
 
-    // show dbs
+    // Show dbs
     public List<String> listDatabases() {
 
         try {
@@ -93,7 +92,7 @@ public class MongoManager {
 
     }
 
-    // show collections
+    // Show collections
     public List<String> listCollections() {
 
         try {

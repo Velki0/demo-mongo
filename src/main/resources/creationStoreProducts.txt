@@ -13,7 +13,7 @@ db.createCollection("products",
             description: "La catégorie est obligatoire."},
         color: {
             bsonType: "string",
-            description: "La couleur est obligatoire."},
+            description: "La couleur est optionnelle."},
         price: {
             bsonType: "double",
             description: "Le prix est obligatoire."},
